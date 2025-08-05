@@ -3,7 +3,7 @@ Ethical Collision Module: enhancing AI responses in morally sensitive conversati
 # Ethical Collision Module for Conversational AI
 
 **Author:** Volodymyr Fedonyuk  
-**Contact:** [your.email@example.com]
+**Contact:** [vryafedonuk@gmail.com]
 
 ---
 
